@@ -1,16 +1,19 @@
-# world_time
+# World TIME
 
-A new Flutter project.
+A new Flutter project learned from youtube channel "thenetninja".
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Problems : http request when taking from api gets crashed quite often ,<br> it may be due to the latest update on my device (may be not). 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# SOME IMAGES :
+# Sometimes it work but quite often it sucks !
+![](https://github.com/abraraltaf92/World_Time/blob/master/screenshots/wt.gif)
+## Images of Application
+![Image of Application](https://github.com/abraraltaf92/World_Time/blob/master/screenshots/Untitled%201.png)
+![](https://github.com/abraraltaf92/World_Time/blob/master/screenshots/Untitled%202.png)
+![](https://github.com/abraraltaf92/World_Time/blob/master/screenshots/Untitled%204.png)
+### Error
+![ERROR](https://github.com/abraraltaf92/World_Time/blob/master/screenshots/Untitled%203.png)
