@@ -24,6 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.0
+  flutter_launcher_icons: ^0.8.1
   flutter_spinkit: ^4.1.2+1
   http: ^0.12.2
   intl: ^0.16.1
@@ -32,6 +33,10 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+flutter_icons:
+  image_path: 'assets/icons8-clock-64.png'
+  android: true
+  ios: true
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 # The following section is specific to Flutter.
@@ -54,7 +59,8 @@ flutter:
     - assets/south_korea.png
     - assets/uk.png
     - assets/usa.png
-  # An image asset can refer to one or more resolution-specific "variants", see
+    - assets/icons8-clock-64.png
+      # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see
   # https://flutter.dev/assets-and-images/#from-packages
