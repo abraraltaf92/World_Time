@@ -6,7 +6,8 @@ A new Flutter project learned from youtube channel "thenetninja".
 
 This project is a starting point for a Flutter application.
 
-# Problems : http request when taking from api gets crashed quite often ,<br> it may be due to the latest update on my device (may be not). 
+### Error Fixed : 
+     Problems :http request when taking from api gets crashed quite often ,<br> it may be due to the latest update on my device (may be not). 
 
 # SOME IMAGES :
 # Sometimes it work but quite often it sucks !
